@@ -1,4 +1,8 @@
 # Портфолио
+
+## strology Web App — Натальные карты, транзиты и прогнозирование (React.js, Next.js,): https://github.com/icepik77/pro12
+![Приложение с клиентами на Next.js](https://github.com/icepik77/Portfolio/blob/main/img/next2.png)
+
 ## Главная страница Github cо всеми приложениями (React.js, Next.js,): https://github.com/icepik77
 ![Приложение с клиентами на Next.js](https://github.com/icepik77/Portfolio/blob/main/img/next2.png)
 
