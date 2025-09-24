@@ -1,5 +1,13 @@
 # Портфолио
 
+## Доббригс - Приложение для питомников (React.js, React Native, Expo): https://github.com/icepik77/nursery
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-06-51.png)
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-07-49.png)
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-09-49.png)
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-10-43.png)
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-18-30.png)
+![Приложение питомников](https://github.com/icepik77/Portfolio/blob/main/img/2025-09-24_12-20-06.png)
+
 ## Astrology Web App — Натальные карты, транзиты и прогнозирование (React.js, Next.js,): https://github.com/icepik77/pro12
 ![Приложение для расчета астрологических объектов Next.js](https://github.com/icepik77/Portfolio/blob/main/img/astrology.png)
 
